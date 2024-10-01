@@ -1,7 +1,18 @@
-# Meu primeiro repositório
-Desafio de projeto da Dio sobre Git/GitHub
+# Git e GitHub
 
-O arquivo README.md tem a extensão 'md', ou seja, markdown, uma linguagem de formatação que podemos estar utilizando dentro do GitHub.
-Caso queira se aprofundar mais sobre o assunto basta acessas [Sistaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/).
+Olá devs, tudo bem?
 
-É importante realizar o download do git, caso ainda não tenha feito isso basta acessar o [Git](https://git-scm.com/downloads).
+No meu primeiro repositório irei abordar esse tema que é de extrema importância. Por mais que pareça que estamos falando da mesma coisa, é essencial ressaltar que são tópicos diferentes.
+
+O git, criado em 2005 por Linus Torvalds, é uma ferramenta local que se baseia em um sistema de versionamento de código distribuído, ou seja, um sistema que nos permite manter diferentes versões de um mesmo arquivo ou projeto. Além disso, temos acesso ao histórico de todas as modificações feitas ao arquivo supervisionado pelo git, sabendo quem fez e quando.
+
+Por outro lado, o GitHub é uma plataforma que nos permite armazenar e compartilhar projetos de desenvolvimento de software, além de aumentar o repertório, contribuir em outros projetos, aprender cada vez mais e estimular o trabalho em equipe. Essa plataforma hospeda os projetos Git online, fornecendo ferramentas para aperfeiçoar o código. Ademais, nos permite gerenciar problemas, no qual contamos com a participação de outros devs para nos auxiliar em caso de dúvidas ou erros.
+
+Ambas são ótimas ferramentas para os desenvolvedores e é sempre bom conhece-las para aproveitar ao máximo de cada um.
+
+## Links Úteis
+[Faça donwload do Git](https://git-scm.com/downloads)
+
+[Saiba mais sobre o Git](https://medium.com/@habbema/malhando-o-git-9175ab29ef6a)
+
+[Saiba mais sobre o GitHub](https://docs.github.com/pt)
